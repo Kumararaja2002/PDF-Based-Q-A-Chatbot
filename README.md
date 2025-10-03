@@ -50,5 +50,7 @@ pip install -r requirements.txt
 
 4. Run the Streamlit app:
 ```
+streamlit run main.py
+```
 streamlit run raw.py
 ```
